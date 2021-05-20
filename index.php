@@ -117,6 +117,14 @@
                     <input type="text" placeholder= 
                         "Marks" name="marks" required> 
                 </div> 
+                <div id="input_class" class="input"> 
+                    <input type="text" placeholder= 
+                        "percentage" name="percentage" required> 
+                </div> 
+                <div id="input_class" class="input"> 
+                    <input type="text" placeholder= 
+                        "grade" name="grade" required> 
+                </div> 
                 
   
                 <div class="id input"> 
