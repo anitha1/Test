@@ -16,6 +16,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 'Topic' => $_POST['topic'],
                 'Difficulty' => $_POST['difficulty'],
                 'Marks' => $_POST['marks'],
+                'Text1' => $_POST['text1'],
                 //'Year' => $_POST['year'],
             );
             $array_data[]=$extra;

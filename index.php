@@ -119,6 +119,7 @@
                 </div> 
                <input name="master_grade" type="text" placeholder="master_grade"> 
                <inut tme="text1" type="text" placeholder="text1">
+                <inut tme="text2" type="text" placeholder="text2">
                 <div id="input_class" class="input"> 
                     <input type="text" placeholder= 
                         "percentage" name="percentage" required> 
