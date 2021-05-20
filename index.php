@@ -117,8 +117,8 @@
                     <input type="text" placeholder= 
                         "Marks" name="marks" required> 
                 </div> 
-               <input name="master_grade" type="text"> 
-               <inut type="text1" type="text">
+               <input name="master_grade" type="text" placeholder="master_grade"> 
+               <inut tme="text1" type="text" placeholder="text1">
                 <div id="input_class" class="input"> 
                     <input type="text" placeholder= 
                         "percentage" name="percentage" required> 
