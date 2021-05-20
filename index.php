@@ -117,7 +117,7 @@
                     <input type="text" placeholder= 
                         "Marks" name="marks" required> 
                 </div> 
-                
+               <input name="master_grade" type="text"> 
   
                 <div class="id input"> 
                     <input id="submit" type="submit"
