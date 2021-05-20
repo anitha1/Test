@@ -117,7 +117,20 @@
                     <input type="text" placeholder= 
                         "Marks" name="marks" required> 
                 </div> 
-               <input name="master_grade" type="text"> 
+<<<<<<< HEAD
+	       <input name="master_grade" type="text"> 
+               <inut type="text1" type="text">
+=======
+                <div id="input_class" class="input"> 
+                    <input type="text" placeholder= 
+                        "percentage" name="percentage" required> 
+                </div> 
+                <div id="input_class" class="input"> 
+                    <input type="text" placeholder= 
+                        "grade" name="grade" required> 
+                </div> 
+                
+>>>>>>> first-git
   
                 <div class="id input"> 
                     <input id="submit" type="submit"
